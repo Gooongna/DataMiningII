@@ -22,7 +22,7 @@ https://www.data-mining-cup.com/reviews/dmc-2018/
 
 **Step 3**: Clustering
 - sales tendency shows 'grouping' pattern, so we decide to apply cluster before time-series model
-- try 'hard' clustering by data category and ML clustering models
+- 'hard' clustering by data category, K-means and a time-series clustering model
 
 **Step 4**: Time-Series Model
 - pure time-series model: ARIMA
@@ -35,7 +35,7 @@ https://www.data-mining-cup.com/reviews/dmc-2018/
 ## Result
 - Metrics: sum of absolute error dates of all 10,000 products
 - Baseline: 261.02
-- Our Result:
+- Our Result:\\
 
 Model | Avg.Score | Standard Deviation | 
 --- | --- | --- | --- |--- |
