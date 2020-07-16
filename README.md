@@ -35,7 +35,7 @@ https://www.data-mining-cup.com/reviews/dmc-2018/
 ## Result
 - Metrics: sum of the absolute error dates of all 10,000 products
 - Baseline: 261.02
-- Our Result:\
+- Our Result:
 
 |Model | Avg.Score | Standard Deviation | 
 |--- | --- | --- |
