@@ -33,12 +33,12 @@ https://www.data-mining-cup.com/reviews/dmc-2018/
 - method 2: stacking
 
 ## Result
-- Metrics: sum of absolute error dates of all 10,000 products
+- Metrics: sum of the absolute error dates of all 10,000 products
 - Baseline: 261.02
-- Our Result:\\
+- Our Result:\
 
-Model | Avg.Score | Standard Deviation | 
---- | --- | --- | --- |--- |
+|Model | Avg.Score | Standard Deviation | 
+|--- | --- | --- |
 ARIMA | 248.9 | 0.34 |
 Windowing-lag20 w/ ANN | 250.8 | 0,38 |
 GBoost Regression | 253.6 | 0,59 |
